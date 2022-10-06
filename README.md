@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Rohit94yadav
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java script html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email -rohit94yadav@gmail.com mobile - 7082382325
+I am a full-stack web developer who is passionate in making beautiful and responsive websites.
 
-<!---
-Rohit94yadav/Rohit94yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+
