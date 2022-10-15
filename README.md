@@ -2,13 +2,10 @@ Hi 👋, I Am Rohit Yadav I am a full-stack web developer who is passionate in m
 
 I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
 
-Hi 👋, I Am Rohit Yadav
-Typing SVG
-
-Coder
 
 
-Stars Followers Profile views
+
+
 
 
 
