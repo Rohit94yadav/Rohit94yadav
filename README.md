@@ -1,4 +1,4 @@
-[![MasterHead](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter-1600x618.jpg)](https:Shiv-96.io) 
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Shiv+Kumar..!;+Java-Backend+Developer..." alt="Typing SVG" /></a>
 
