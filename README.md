@@ -39,4 +39,4 @@
 
 <a href="https://github.com/Rohit94yadav"><img alt="Rohit Yadav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit94yadav&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>
 
-![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.svg)
+
