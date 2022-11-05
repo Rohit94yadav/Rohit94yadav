@@ -68,6 +68,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit94yadav&theme=dark" alt="Rohit94yadav" /></p>
 
-<a href="https://github.com/Rohit94yadav"><img alt="Rohit Yadav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit94yadav&custom_title=Rohit Yadav%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Rohit94yadav"><img alt="Rohit Yadav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit94yadav&custom_title=Rohit%27s%20Contribution%20Graph&theme=react-dark" /></a>
 
 
